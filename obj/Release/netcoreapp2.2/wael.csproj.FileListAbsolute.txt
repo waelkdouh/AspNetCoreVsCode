@@ -1,0 +1,44 @@
+C:\app\wael.deps.json
+C:\app\wael.runtimeconfig.json
+C:\app\wael.runtimeconfig.dev.json
+C:\app\wael.dll
+C:\app\wael.pdb
+C:\app\wael.Views.dll
+C:\app\wael.Views.pdb
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.csprojAssemblyReference.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.csproj.CoreCompileInputs.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.RazorAssemblyInfo.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.RazorAssemblyInfo.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.AssemblyInfoInputs.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.AssemblyInfo.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.TagHelpers.input.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.TagHelpers.output.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.RazorCoreGenerate.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.RazorTargetAssemblyInfo.cache
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.RazorTargetAssemblyInfo.cs
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.Views.pdb
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.dll
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.pdb
+C:\Users\Wael Kdouh\Desktop\wael\obj\Release\netcoreapp2.2\wael.csproj.CopyComplete
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.deps.json
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.runtimeconfig.json
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.runtimeconfig.dev.json
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.dll
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.pdb
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.Views.dll
+C:\Users\Wael Kdouh\Desktop\wael\app\wael.Views.pdb
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.deps.json
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.runtimeconfig.json
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.runtimeconfig.dev.json
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.dll
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.pdb
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.Views.dll
+C:\Users\Wael Kdouh\Desktop\wael\bin\Release\netcoreapp2.2\wael.Views.pdb

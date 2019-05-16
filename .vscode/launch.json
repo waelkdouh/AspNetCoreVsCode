@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Docker: Launch .NET Core (Preview)",
+            "type": "docker-coreclr",
+            "request": "launch",
+            // "preLaunchTask": "build",
+            "dockerBuild": {},
+            "dockerRun": {
+                "env": {
+                    "Kestrel__Certificates__Default__Path": "/root/.dotnet/https/aspnetcore-cert.pfx",
+                    "Kestrel__Certificates__Default__Password": "createyourownpassword"
+                },
+                "ports": [
+                    {
+                        "hostPort": "5000",
+                        "containerPort": "5000"
+                    },
+                    {
+                        "hostPort": "5001",
+                        "containerPort": "5001"
+                    }
+                ],
+                "volumes": [
+                    {
+                        "localPath": "c:\\cert\\",
+                        "containerPath": "/root/.dotnet/https",
+                        "permissions": "rw"
+                    }
+                ]
+            }
+        }
+    ]
+}
+
+
+
+
